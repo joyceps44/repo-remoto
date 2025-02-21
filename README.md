@@ -1,2 +1,2 @@
 # repo-remoto
-descrição antes do clone
+descrição DEPOIS do clone
